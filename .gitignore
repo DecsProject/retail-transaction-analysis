@@ -206,3 +206,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datafiler (Parquet & DuckDB)
+*.parquet
+*.db
+*.db.wal
+
+# Power BI temporära filer
+*.pbit
+*.pbix.settings
