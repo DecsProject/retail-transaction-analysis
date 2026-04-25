@@ -8,5 +8,5 @@ Exported star schema from duckdb with parquet to powerBI.
 
 To-do:
 
-Simulate cost by categorizing items through description key-words, and/or by unitprice grouping.
+[] Simulate cost by categorizing items through description key-words, and/or by unitprice grouping.
 Margin ref: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html
