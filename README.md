@@ -10,6 +10,7 @@ To-do:
 
 [ ] Simulate cost by categorizing items through description key-words, and/or by unitprice grouping.
     - Margin ref: https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html
+    
 [ ] Write tests/data quality checks on pipeline
 
 
